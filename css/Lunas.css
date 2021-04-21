@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+p{
+    padding: 10px 150px 20px 00px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.luna{
+    width: 160px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    border-color: white;
+}
+.luna:hover{
+    background-color: yellow;
+    transition: 0.5s;
+    width: 180;
+}

@@ -1,0 +1,46 @@
+p{
+    padding: 60px 120px 55px 250px;
+    font-size: 50px;
+}
+ul{
+    list-style: none;
+}
+.planetas{
+    padding: 5px 12px 5px 12px;
+    background-color: #FC4A12;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 25px 25px 0px 120px;
+}
+.planetas:hover{
+    color: blue;
+    transition: 0.5s;
+    background-color: darkcyan;
+}
+.galaxias{
+    padding: 5px 20px 5px 20px;
+    background-color: #E06110;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 15px 35px 0px 25px;
+}
+.galaxias:hover{
+    color: blue;
+    transition: 0.5s;
+    background-color: yellow;
+}
+.luna{
+    padding: 5px 40px 5px 40px;
+    background-color: #F8931F;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+}
+.luna:hover{
+    color: blue;
+    transition: 0.5s;
+    background-color: lawngreen;
+}
